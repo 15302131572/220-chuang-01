@@ -5,16 +5,8 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "BlueprintFileUtils",
-			"Enabled": true
-		},
-		{
-			"Name": "EditorScriptingUtilities",
-			"Enabled": true
-		},
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
+			"Name": "AssetTags",
+			"Enabled": false
 		}
 	]
 }
